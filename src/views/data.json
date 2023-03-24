@@ -1,0 +1,41 @@
+{
+  "data": [
+    {
+      "no": 1,
+      "uperNo": null,
+      "text": "카테고리 1",
+      "level": 1,
+      "childs": [
+        {
+          "no": 2,
+          "uperNo": 1,
+          "text": "카테고리 1 - 1",
+          "level": 2,
+          "childs": [
+            {
+              "no": 3,
+              "uperNo": 2,
+              "text": "카테고리 1 - 1 - 1",
+              "level": 3,
+              "childs": []
+            }
+          ]
+        },
+        {
+          "no": 4,
+          "uperNo": 1,
+          "text": "카테고리 1 - 2",
+          "level": 2,
+          "childs": []
+        }
+      ]
+    },
+    {
+      "no": 5,
+      "uperNo": null,
+      "text": "카테고리 2",
+      "level": 1,
+      "childs": []
+    }
+  ]
+}
